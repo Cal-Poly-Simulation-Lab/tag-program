@@ -3,9 +3,8 @@ The goal of the Cal Poly Simulation Laboratory (PolySim) is to build the skills 
 
 ## Tag Level 1 - Recruit
 * Recruit – White – Basic Coding Proficiency
- *  Learn the basics of Git and Github
- * Demonstrate moderate proficiency in one language, Python
- * 
+  * Learn the basics of Git and Github
+  * Demonstrate moderate proficiency in one language, Python
 * Neo (Novice) – Orange – Advanced Coding Proficiency and Algorithms
 o	Basics of Object Oriented programming
 	Advanced Python Functions
