@@ -3,16 +3,9 @@ The goal of the Cal Poly Simulation Laboratory (PolySim) is to build the skills 
 
 ## Tag Level 1 - Recruit
 * Recruit – White – Basic Coding Proficiency
-o	Demonstrate moderate proficiency in one language Matlab and Python
-o	Use Matlab or Python to Model, code, simulate, visualize one of the following dynamic systems:
-	Bouncing ball in gravitational field
-	Inverted Pendulum (on cart or rotational)
-	Mass-Spring-Damper
-	Single Axis Reaction Wheel
-	Brownian Motion or Plinko
-	Lorentz attractor
-	Weakly coupled oscillators
-	Bouncing balls
+** Learn the basics of Git and Github
+** Demonstrate moderate proficiency in one language, Python
+**
 * Neo (Novice) – Orange – Advanced Coding Proficiency and Algorithms
 o	Basics of Object Oriented programming
 	Advanced Python Functions
@@ -83,7 +76,7 @@ o	3D printing
 •	GA to solve traveling salesman
 
 ## Tools
-•	Visualization
+* Visualization
 o	Matlab
 o	WPF
 o	Processing
@@ -91,10 +84,10 @@ o	NumPy
 o	VisPy
 o	Three.js
 o	Babylon.js
-•	Solid Modeling
+* Solid Modeling
 o	Fusion (or other solid modeling tools)
 o	3D printing
-•	Microcontrollers
+* Microcontrollers
 o	Arduino
 o	Analog Sensors
 o	Digital Sensors
