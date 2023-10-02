@@ -91,19 +91,18 @@ Control a physical system
 
 ## Tools
 * Visualization
-o	Matlab
-o	WPF
-o	Processing
-o	NumPy
-o	VisPy
-o	Three.js
-o	Babylon.js
+  * Matlab
+  * Matplotlib
+  * NumPy
+  * VPython
+  * Three.js
+  * Babylon.js
 * Solid Modeling
-o	Fusion (or other solid modeling tools)
-o	3D printing
+  * Fusion (or other solid modeling tools)
+  * 3D printing
 * Microcontrollers
-o	Arduino
-o	Analog Sensors
-o	Digital Sensors
-o	Analog Actuators
-o	Digital Actuators
+  * Arduino
+  * Analog Sensors
+  * Digital Sensors
+  * Analog Actuators
+  * Digital Actuators
